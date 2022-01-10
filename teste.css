@@ -1,0 +1,14 @@
+#container{
+    background-color: blueviolet;
+    height: 1080px;
+    position: relative;
+    border: 3px solid green;
+}
+#button1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 1080px;
+    border: 3px solid green; 
+
+  }
